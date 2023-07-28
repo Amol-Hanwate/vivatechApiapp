@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "twilio.accountSid",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.accountSid'"
+  },
+  {
+    "name": "twilio.authToken",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.authToken'"
+  },
+  {
+    "name": "twilio.phoneNumber",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.phoneNumber'"
+  },
+  {
+    "name": "app.jwt-expiration-milliseconds",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt-expiration-milliseconds'"
+  },
+  {
+    "name": "app.jwt-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt-secret'"
+  },
+  {
+    "name": "twilio.accountSid",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.accountSid'"
+  },
+  {
+    "name": "twilio.accountSid",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.accountSid'"
+  },
+  {
+    "name": "twilio.accountSid",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.accountSid'"
+  },
+  {
+    "name": "twilio.accountSid",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.accountSid'"
+  },
+  {
+    "name": "twilio.accountSid",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.accountSid'"
+  },
+  {
+    "name": "twilio.authToken",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.authToken'"
+  },
+  {
+    "name": "twilio.phoneNumber",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.phoneNumber'"
+  }
+]}
